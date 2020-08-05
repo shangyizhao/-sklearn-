@@ -3,4 +3,4 @@
 
 ## 目录
 ### 第一章：决策树
-1.[决策树概述](https://github.com/shangyizhao/-sklearn-/blob/master/Chapter1/1.1%20Decition%20Tree%20Introduction.md)
+1. [决策树概述](https://github.com/shangyizhao/-sklearn-/blob/master/Chapter1/1.1%20Decition%20Tree%20Introduction.md)
